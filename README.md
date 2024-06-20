@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhabalar,Ben Güven 22 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda kendi projelerim üzerinde çalışıyorum.(Bkz: Peithoagency.com)<br>👯 İşi öğrenmek için stajyer veya jr developer olarak iş tekliflerine açığım.<br>🌱 Şu anda JavaScript alanında kendimi geliştirmeye çalışıyorum.<br>
+Merhabalar,Ben Güven 23 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda kendi projelerim üzerinde çalışıyorum.<br>👯 İşi öğrenmek için stajyer veya jr developer olarak iş tekliflerine açığım.<br>🌱 Şu anda JavaScript alanında kendimi geliştirmeye çalışıyorum.<br>
 
 
 ## 🌐 Socials:
