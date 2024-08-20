@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhabalar,Ben Güven 23 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda Verteks Digital için çalışıyorum<br>👯 <br>🌱 Şu anda JavaScript-Angular alanında kendimi geliştirmeye çalışıyorum.<br>
+Merhabalar,Ben Güven 23 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda Verteks Digital için çalışıyorum<br>👯 <br>🌱 Şu anda JavaScript-React.js alanında kendimi geliştirmeye çalışıyorum.<br>
 
 
 ## 🌐 Socials:
