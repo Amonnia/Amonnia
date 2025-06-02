@@ -1,6 +1,7 @@
 # 💫 About Me:
-Merhabalar,Ben Güven 23 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda Verteks Digital için çalışıyorum<br>👯 <br>🌱 Şu anda JavaScript-React.js alanında kendimi geliştirmeye çalışıyorum.<br>
+Merhabalar,Ben Güven 23 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda Plutos Agency için çalışıyorum<br>👯 <br>🌱 Şu anda JavaScript-React.js alanında kendimi geliştirmeye devam ediyorum.<br>
 
+## 🌐 Portfolio Website: https://www.amonnia.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guven-kuzucanli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/guvenh3) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Amonnia) 
