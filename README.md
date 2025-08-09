@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhabalar,Ben Güven 23 yaşındayım ve Front-end developer olmak için çalışıyorum.<br>🔭Şu anda Plutos Agency için çalışıyorum<br>👯 <br>🌱 Şu anda JavaScript-React.js alanında kendimi geliştirmeye devam ediyorum.<br>
+Merhabalar,Ben Güven 24 yaşındayım ve Front-end & Mobile developerım.<br>🔭Şu anda Freelance  çalışıyorum<br>👯 <br>
 
 ## 🌐 Portfolio Website: https://www.amonnia.com/
 
