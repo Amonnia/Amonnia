@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhabalar,Ben Güven 24 yaşındayım ve Front-end & Mobile developerım.<br>🔭Şu anda Freelance  çalışıyorum<br>👯 <br>
+Merhabalar,Ben Güven 25 yaşındayım bişeyler geliştiriyorum.<br>🔭<br>👯 <br>
 
 ## 🌐 Portfolio Website: https://www.amonnia.com/
 
